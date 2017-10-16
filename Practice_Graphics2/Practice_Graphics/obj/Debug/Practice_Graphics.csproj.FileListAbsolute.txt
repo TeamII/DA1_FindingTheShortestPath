@@ -1,0 +1,23 @@
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\bin\Debug\Practice_Graphics.exe.config
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\bin\Debug\Practice_Graphics.exe
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\bin\Debug\Practice_Graphics.pdb
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\obj\Debug\Practice_Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\obj\Debug\Practice_Graphics.Properties.Resources.resources
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\obj\Debug\Practice_Graphics.csproj.GenerateResource.Cache
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\obj\Debug\Practice_Graphics.exe
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\obj\Debug\Practice_Graphics.pdb
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\obj\Debug\Practice_Graphics.FrmMS.resources
+C:\Users\Cuong\Desktop\TÀI LIỆU HỌC TẬP\NĂM III\ĐỒ ÁN 1\Practice_Graphics\obj\Debug\Practice_Graphics.FrmNamePoint.resources
+C:\Users\Tri Nha\Documents\Practice_Graphics\bin\Debug\Practice_Graphics.exe.config
+C:\Users\Tri Nha\Documents\Practice_Graphics\obj\Debug\Practice_Graphics.exe
+C:\Users\Tri Nha\Documents\Practice_Graphics\obj\Debug\Practice_Graphics.pdb
+C:\Users\Tri Nha\Documents\Practice_Graphics\bin\Debug\Practice_Graphics.exe
+C:\Users\Tri Nha\Documents\Practice_Graphics\bin\Debug\Practice_Graphics.pdb
+C:\Users\Tri Nha\Documents\Practice_Graphics\obj\Debug\Practice_Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Tri Nha\Documents\Practice_Graphics\obj\Debug\Practice_Graphics.FrmMS.resources
+C:\Users\Tri Nha\Documents\Practice_Graphics\obj\Debug\Practice_Graphics.FrmNamePoint.resources
+C:\Users\Tri Nha\Documents\Practice_Graphics\obj\Debug\Practice_Graphics.Properties.Resources.resources
+C:\Users\Tri Nha\Documents\Practice_Graphics\obj\Debug\Practice_Graphics.csproj.GenerateResource.Cache
+C:\Users\Cuong\Downloads\Practice_Graphics2\Practice_Graphics\bin\Debug\Practice_Graphics.exe.config
+C:\Users\Cuong\Downloads\Practice_Graphics2\Practice_Graphics\obj\Debug\Practice_Graphics.exe
+C:\Users\Cuong\Downloads\Practice_Graphics2\Practice_Graphics\obj\Debug\Practice_Graphics.pdb
